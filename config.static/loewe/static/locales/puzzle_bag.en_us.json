@@ -1,0 +1,22 @@
+{
+	"colors.ash": "Ash",
+	"colors.black": "Black",
+	"colors.blue": "Blue",
+	"colors.combination1": "Combination1",
+	"colors.combination2": "Combination2",
+	"colors.default": "Default",
+	"colors.gold": "Gold",
+	"colors.hazelnut": "Hazelnut",
+	"colors.natural": "Natural",
+	"materials.default": "Default",
+	"materials.metal_lw": "Metal Lw",
+	"materials.nappa_lw": "Nappa Lw",
+	"materials.python_lw": "Python Lw",
+	"parts.body": "Body",
+	"parts.handle": "Handle",
+	"parts.hardware": "Hardware",
+	"parts.rope_strap": "Rope Strap",
+	"parts.shadow": "Shadow",
+	"parts.standard_strap": "Standard Strap",
+	"parts.straight_strap": "Straight Strap"
+}
