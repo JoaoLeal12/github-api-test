@@ -1,0 +1,19 @@
+{
+	"colors.base": "Base",
+	"colors.pigprint_blue": "Pigprint Blue",
+	"colors.pigprint_yellow": "Pigprint Yelloq",
+	"colors.python_pink": "Python Pink",
+	"colors.python_purple": "Python Purple",
+	"colors.white": "white",
+	"materials.a": "A",
+	"materials.body": "Body",
+	"materials.e": "E",
+	"materials.j": "J",
+	"materials.m": "M",
+	"materials.mask": "Mask",
+	"parts.body": "Body",
+	"parts.dx": "Ball Floor",
+	"parts.dx_mask": "Dx Mask",
+	"parts.sx": "Toe Heel",
+	"parts.sx_mask": "Sx Mask"
+}
