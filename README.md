@@ -1,2 +1,2 @@
-# github_api_test
+# Github API Test
 Repository to test the Github API
