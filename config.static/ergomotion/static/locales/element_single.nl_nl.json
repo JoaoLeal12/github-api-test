@@ -1,0 +1,20 @@
+{
+	"colors.beige": "Beige",
+	"colors.black": "Zwart",
+	"colors.brown": "Bruin",
+	"colors.default": "Default",
+	"colors.grey": "Grijs",
+	"materials.aluminium_em": "Aluminium Em",
+	"materials.default": "Default",
+	"materials.floating_lining_em": "Floating Lining Em",
+	"materials.lining_em": "Lining Em",
+	"materials.milan_floating_lining_em": "Milan Floating Lining Em",
+	"materials.plastic_em": "Plastic Em",
+	"materials.plastic_wood_em": "Plastic Wood Em",
+	"materials.slim_floating_lining_em": "Slim Floating Lining Em",
+	"materials.square_wood_em": "Square Wood Em",
+	"parts.bed": "Bed",
+	"parts.headboard": "Hoofdbord",
+	"parts.leg": "Poten",
+	"parts.shadow": "Shadow"
+}
