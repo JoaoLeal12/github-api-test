@@ -1,0 +1,14 @@
+{
+	"colors.default": "Default",
+	"colors.gold": "Gold",
+	"colors.silver": "Silver",
+	"materials.default": "Default",
+	"materials.metal_crt": "Metal",
+	"materials.steel_crt": "Steel",
+	"parts.bracelet": "Bracelet",
+	"parts.case": "Case",
+	"parts.meshes": "Meshes",
+	"parts.shadow": "Shadow",
+	"properties.color.gold": "Gold",
+	"properties.color.silver": "Silver"
+}
